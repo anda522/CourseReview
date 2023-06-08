@@ -1,8 +1,10 @@
 # 软件工程与实践复习
 
-（应该是同校同学整理的）知识复习：https://iamlzy.blog.csdn.net/article/details/103662123
+（应该是同校同学整理的，很详细）知识复习：https://iamlzy.blog.csdn.net/article/details/103662123
 
 2023题型：选择，判断，名词解释，简答，分析论述
+
+> 本文整理不详细，时间紧迫，已经放弃扩充内容，内容不一定可行。
 
 # 1 软件工程基础
 

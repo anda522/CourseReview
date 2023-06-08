@@ -116,7 +116,7 @@ $$
 
 信息源的熵：
 $$
-H = - \sum \limits _{i = 1} ^n P(x_i) log_2 P(x_i) 
+H = - \sum \limits _{i = 1} ^n P(x_i) log_2 P(x_i)
 $$
 
 > 当每个符号等概率独立出现时，信源的熵有最大值，单位为`bit/符号`
