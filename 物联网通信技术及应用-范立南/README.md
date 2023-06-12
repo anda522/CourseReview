@@ -756,6 +756,8 @@ ZigBee的网络地址：1个是64位的IEEE地址，通常叫做MAC地址或扩�
 - 树状结构：可实现网络范围内多跳信息服务。具有一定的稳定性和可扩展性。不能很好适应外部动态环境；任意节点中断或故障将会使部分节点脱离网络。
 - 网状结构：具有自组织，自愈的功能。 具有更加灵活的信息路由规则。实现复杂。
 
+![](https://gadget-freakz.com/wp-content/uploads/ZigBee-network-topologies.jpg)
+
 ## 7.4 ZigBee网络的组建
 
 协调器功能特点：
